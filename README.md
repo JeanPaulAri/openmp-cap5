@@ -12,7 +12,6 @@ Este es un repositorio que contiene ejercicios hechos en OpenMP.
 2. **Listas enlazadas con un mutex por nodo**: Utiliza un mutex para cada nodo de la lista, permitiendo que múltiples hilos accedan a diferentes partes de la lista simultáneamente.
 3. **Listas enlazadas con read-write lock**: Usa un read-write lock para permitir múltiples lectores simultáneos mientras asegura que solo un escritor pueda modificar la lista a la vez.
 
-
 ## Guía de compilación
 
 Para compilar los ejercicios con C++, sigue estos pasos:
