@@ -1,0 +1,7 @@
+# Tutorial: Compilar un archivo CPP usando pthreads desde la línea de comandos
+
+## Paso 1: Instalar las bibliotecas necesarias
+Antes de compilar, asegúrate de tener las bibliotecas pthreads instaladas en tu sistema. En la mayoría de los sistemas basados en Unix, pthreads ya están incluidas.
+
+## Paso 2: Escribir el código fuente en C++
+Asegúrate de tener un archivo `.cpp` con el código que utiliza pthreads. Aquí hay un ejemplo simple:
